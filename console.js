@@ -1,2 +1,3 @@
 //hey this is a comment
-consile.log("Hello World)
+console.log("Hello World)
+console.log("My Repo") //2nd time
